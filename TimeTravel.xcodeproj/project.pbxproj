@@ -7,13 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		403FFAAB1E52049500DB272B /* mars.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 403FFAAA1E52049500DB272B /* mars.jpg */; };
-		403FFAAD1E5204A000DB272B /* neptune.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 403FFAAC1E5204A000DB272B /* neptune.jpg */; };
-		403FFAAF1E5204AF00DB272B /* uranus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 403FFAAE1E5204AF00DB272B /* uranus.jpg */; };
-		403FFAB11E5204BA00DB272B /* saturn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 403FFAB01E5204BA00DB272B /* saturn.jpg */; };
-		403FFAB31E5204C400DB272B /* jupiter.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 403FFAB21E5204C400DB272B /* jupiter.jpg */; };
-		403FFAB61E5204CF00DB272B /* earth.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 403FFAB41E5204CF00DB272B /* earth.jpg */; };
-		403FFAB71E5204CF00DB272B /* venus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 403FFAB51E5204CF00DB272B /* venus.jpg */; };
 		40763AFE1E4F85F600FA2B07 /* SpaceShip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40763AFD1E4F85F600FA2B07 /* SpaceShip.swift */; };
 		5B830BA41DA43D1F00BC5FD3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B830BA31DA43D1F00BC5FD3 /* AppDelegate.swift */; };
 		5B830BA61DA43D1F00BC5FD3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B830BA51DA43D1F00BC5FD3 /* ViewController.swift */; };
@@ -23,13 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		403FFAAA1E52049500DB272B /* mars.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mars.jpg; path = ../../../Downloads/mars.jpg; sourceTree = "<group>"; };
-		403FFAAC1E5204A000DB272B /* neptune.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = neptune.jpg; path = ../../../Downloads/neptune.jpg; sourceTree = "<group>"; };
-		403FFAAE1E5204AF00DB272B /* uranus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = uranus.jpg; path = ../../../Downloads/uranus.jpg; sourceTree = "<group>"; };
-		403FFAB01E5204BA00DB272B /* saturn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = saturn.jpg; path = ../../../Downloads/saturn.jpg; sourceTree = "<group>"; };
-		403FFAB21E5204C400DB272B /* jupiter.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = jupiter.jpg; path = ../../../Downloads/jupiter.jpg; sourceTree = "<group>"; };
-		403FFAB41E5204CF00DB272B /* earth.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = earth.jpg; path = ../../../Downloads/earth.jpg; sourceTree = "<group>"; };
-		403FFAB51E5204CF00DB272B /* venus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = venus.jpg; path = ../../../Downloads/venus.jpg; sourceTree = "<group>"; };
 		40763AFD1E4F85F600FA2B07 /* SpaceShip.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpaceShip.swift; sourceTree = "<group>"; };
 		5B830BA01DA43D1F00BC5FD3 /* TimeTravel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TimeTravel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B830BA31DA43D1F00BC5FD3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -83,13 +69,6 @@
 				5B830BA31DA43D1F00BC5FD3 /* AppDelegate.swift */,
 				5B830BA71DA43D2000BC5FD3 /* Main.storyboard */,
 				5B830BAA1DA43D2000BC5FD3 /* Assets.xcassets */,
-				403FFAAE1E5204AF00DB272B /* uranus.jpg */,
-				403FFAB41E5204CF00DB272B /* earth.jpg */,
-				403FFAB51E5204CF00DB272B /* venus.jpg */,
-				403FFAB21E5204C400DB272B /* jupiter.jpg */,
-				403FFAB01E5204BA00DB272B /* saturn.jpg */,
-				403FFAAC1E5204A000DB272B /* neptune.jpg */,
-				403FFAAA1E52049500DB272B /* mars.jpg */,
 				5B830BAC1DA43D2000BC5FD3 /* LaunchScreen.storyboard */,
 				5B830BAF1DA43D2000BC5FD3 /* Info.plist */,
 			);
@@ -156,16 +135,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				403FFAB11E5204BA00DB272B /* saturn.jpg in Resources */,
-				403FFAAD1E5204A000DB272B /* neptune.jpg in Resources */,
 				5B830BAE1DA43D2000BC5FD3 /* LaunchScreen.storyboard in Resources */,
 				5B830BAB1DA43D2000BC5FD3 /* Assets.xcassets in Resources */,
-				403FFAAB1E52049500DB272B /* mars.jpg in Resources */,
-				403FFAB71E5204CF00DB272B /* venus.jpg in Resources */,
-				403FFAB61E5204CF00DB272B /* earth.jpg in Resources */,
-				403FFAB31E5204C400DB272B /* jupiter.jpg in Resources */,
 				5B830BA91DA43D2000BC5FD3 /* Main.storyboard in Resources */,
-				403FFAAF1E5204AF00DB272B /* uranus.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
